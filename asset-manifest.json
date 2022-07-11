@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/travleblog/static/js/main.8baacefd.js",
+    "index.html": "/travleblog/index.html",
+    "main.8baacefd.js.map": "/travleblog/static/js/main.8baacefd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8baacefd.js"
+  ]
+}
